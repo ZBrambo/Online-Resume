@@ -31,8 +31,3 @@ No dependencies or additional libraries are required. The project is built with 
 
 ## Installation Instructions (Optional)
 - If you want to host this webpage online, you can deploy it via a service such as GitHub Pages or a web hosting provider of your choice. No additional setup is required beyond uploading the project files.
-
-## Screenshots (Optional)
-Include any relevant screenshots of the webpage if you want to show how the online resume looks visually. You can use the following format for markdown:
-```md
-![Screenshot](./path_to_screenshot_image.png)
